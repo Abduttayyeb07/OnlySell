@@ -1,0 +1,12 @@
+node_modules/
+dist/
+
+.env
+.env.local
+
+results.json
+results.csv
+*.log
+
+Book1.csv 
+bfg.jar
